@@ -1,0 +1,10 @@
+# FastF1 local session cache
+fastf1_cache/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
